@@ -69,7 +69,7 @@ class _AllUsersState extends State<AllUsers> {
     var androidPlatformChannelSpecifics = new AndroidNotificationDetails(
       // TODO: Change package name
       Platform.isAndroid
-          ? 'com.example.customersuppert_admin'
+          ? 'com.example.customersupport_admin'
           : 'com.duytq.flutterchatdemo',
       'Flutter chat demo',
       'your channel description',

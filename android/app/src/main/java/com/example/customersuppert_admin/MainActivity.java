@@ -1,4 +1,4 @@
-package com.example.customersuppert_admin;
+package com.example.customersupport_admin;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
